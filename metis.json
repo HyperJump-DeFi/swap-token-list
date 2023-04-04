@@ -1,0 +1,333 @@
+{
+  "name": "Hyperjump",
+  "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": ["metis", "hyperjump", "ethereum", "andromeda"],
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "HyperJump",
+      "symbol": "JUMP",
+      "address": "0xE3c82A836Ec85311a433fBd9486EfAF4b1AFbF48",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xE3c82A836Ec85311a433fBd9486EfAF4b1AFbF48.png"
+    },
+    {
+      "name": "BTD",
+      "symbol": "BTD",
+      "address": "0x6b7a87899490EcE95443e979cA9485CBE7E71522",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x6b7a87899490EcE95443e979cA9485CBE7E71522.png"
+    },
+    {
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+      "chainId": 1088,
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+      "chainId": 1088,
+      "decimals": 6,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xEA32A96608495e54156Ae48931A7c20f0dcc1a21.png"
+    },
+    {
+      "name": "USDT Token",
+      "symbol": "mUSDT",
+      "chainId": 1088,
+      "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+      "decimals": 6,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC.png"
+    },
+    {
+      "name": "WOW Token",
+      "symbol": "mWOW",
+      "chainId": 1088,
+      "address": "0x5CE34d9abe4bF239cbc08B89287c87f4CD6d80B7",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x5CE34d9abe4bF239cbc08B89287c87f4CD6d80B7.png"
+    },
+    {
+      "name": "LINK Token",
+      "symbol": "mLINK",
+      "chainId": 1088,
+      "address": "0xf5F66d5daa89c090A7afa10E6C1553B2887a9A33",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xf5F66d5daa89c090A7afa10E6C1553B2887a9A33.png"
+    },
+    {
+      "chainId": 1088,
+      "address": "0x420000000000000000000000000000000000000A",
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "WETH",
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x420000000000000000000000000000000000000A.png"
+    },
+    {
+      "name": "AAVE Token",
+      "symbol": "AAVE",
+      "chainId": 1088,
+      "address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "chainId": 1088,
+      "address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663.png"
+    },
+    {
+      "name": "Netswap Token",
+      "symbol": "NETT",
+      "chainId": 1088,
+      "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278.png"
+    },
+    {
+      "name": "Poly-Peg CAKE",
+      "symbol": "CAKE",
+      "chainId": 1088,
+      "address": "0x445Ea60f4Ace3D8794369379e68FA0F76Af06B02",
+      "decimals": 18,
+      "logoURI": "https://tokens.hyperjump.app/tokens/0x445Ea60f4Ace3D8794369379e68FA0F76Af06B02.png"
+    },
+    {
+      "name": "Poly-Peg BNB",
+      "symbol": "BNB",
+      "chainId": 1088,
+      "address": "0x2692BE44A6E38B698731fDDf417d060f0d20A0cB",
+      "decimals": 18,
+      "logoURI": "https://tokens.hyperjump.app/tokens/0x2692BE44A6E38B698731fDDf417d060f0d20A0cB.png"
+    },
+    {
+      "name": "Poly-Peg BUSD",
+      "symbol": "BUSD",
+      "chainId": 1088,
+      "address": "0x12D84f1CFe870cA9C9dF9785f8954341d7fbb249",
+      "decimals": 18,
+      "logoURI": "https://tokens.hyperjump.app/tokens/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249.png"
+    },
+    {
+      "name": "Avalanche Token",
+      "symbol": "rAVAX",
+      "chainId": 1088,
+      "address": "0xE253E0CeA0CDD43d9628567d097052B33F98D611",
+      "decimals": 18,
+      "logoURI": "https://tokens.hyperjump.app/tokens/0xE253E0CeA0CDD43d9628567d097052B33F98D611.png"
+    },
+    {
+      "name": "Wrapped ONE",
+      "symbol": "WONE",
+      "chainId": 1088,
+      "address": "0x729de3792a5f810a2E7D7899DA74DE0D108E7E6B",
+      "decimals": 18,
+      "logoURI": "https://tokens.hyperjump.app/tokens/0x729de3792a5f810a2E7D7899DA74DE0D108E7E6B.png"
+    },
+    {
+      "name": "Fantom Token",
+      "symbol": "rFTM",
+      "chainId": 1088,
+      "address": "0xa9109271abcf0C4106Ab7366B4eDB34405947eED",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xa9109271abcf0C4106Ab7366B4eDB34405947eED.png"
+    },
+    {
+      "name": "Relay Token",
+      "symbol": "RELAY",
+      "chainId": 1088,
+      "address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4.png"
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "chainId": 1088,
+      "address": "0x4b9D2923D875edF43980BF5dddDEde3Fb20fC742",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x4b9D2923D875edF43980BF5dddDEde3Fb20fC742.png"
+    },
+    {
+      "name": "Metauce",
+      "symbol": "MINES",
+      "chainId": 1088,
+      "address": "0xE9Aa15a067b010a4078909baDE54F0C6aBcBB852",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xE9Aa15a067b010a4078909baDE54F0C6aBcBB852.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "chainId": 1088,
+      "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+      "decimals": 8,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4.png"
+    },
+    {
+      "name": "ByteToken",
+      "symbol": "BYTE",
+      "chainId": 1088,
+      "address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7.png"
+    },
+    {
+      "name": "Hera Token",
+      "symbol": "HERA",
+      "chainId": 1088,
+      "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE.png"
+    },
+    {
+      "name": "Dexpools Token",
+      "symbol": "DXP",
+      "chainId": 1088,
+      "address": "0xA31848AA61F784CDBb6F74260d224A4356295799",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0xA31848AA61F784CDBb6F74260d224A4356295799.png"
+    },
+    {
+      "name": "Hummus",
+      "symbol": "HUM",
+      "chainId": 1088,
+      "address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121.png"
+    },
+    {
+      "name": "SELENE",
+      "symbol": "SELENE",
+      "chainId": 1088,
+      "address": "0xF2D7e8Fc6a5DC0BEABE4BA0f5c8fc4B5Bdb32de3",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "PEAK",
+      "symbol": "PEAK",
+      "chainId": 1088,
+      "address": "0x1F5550A0F5F659E07506088A7919A88DfF37218f",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "PRO",
+      "symbol": "PRO",
+      "chainId": 1088,
+      "address": "0x259EF6776648500D7F1A8aBA3651E38b1121e65e",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "AERA",
+      "symbol": "AERA",
+      "chainId": 1088,
+      "address": "0xFE540D6dbAD8C68928778AaF2Be828efA4b44Fa2",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "MAIA",
+      "symbol": "MAIA",
+      "chainId": 1088,
+      "address": "0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "XCAD",
+      "symbol": "XCAD",
+      "chainId": 1088,
+      "address": "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "GAMEFI",
+      "symbol": "GAMEFI",
+      "chainId": 1088,
+      "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "APOLLO",
+      "symbol": "APOLLO",
+      "chainId": 1088,
+      "address": "0xaaaaEdC8d708583F18C53D47C030359e2083aaaa",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "BIOS",
+      "symbol": "BIOS",
+      "chainId": 1088,
+      "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "WSG",
+      "symbol": "WSG",
+      "chainId": 1088,
+      "address": "0x4F497F9D85A6fE135fFca99f0f253919fE827211",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "USM",
+      "symbol": "USM",
+      "chainId": 1088,
+      "address": "0xfC76114C5AdeBfa257153eA82b8594C3B25baebe",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "STDN",
+      "symbol": "STDN",
+      "chainId": 1088,
+      "address": "0xc12caC7090baa48Ec750CceeC57C80768F6ee58E",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    },
+    {
+      "name": "BORING",
+      "symbol": "BORING",
+      "chainId": 1088,
+      "address": "0x226D8BfB4da78Ddc5bd8Fd6C1532c58e88F9Fd34",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x226D8BfB4da78Ddc5bd8Fd6C1532c58e88F9Fd34.png"
+    },
+    {
+      "name": "FROST",
+      "symbol": "FROST",
+      "chainId": 1088,
+      "address": "0x1fD40Eb4E8b945eD1aD098D90ddf8A3E5537Db55",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/0x1fD40Eb4E8b945eD1aD098D90ddf8A3E5537Db55.png"
+    },
+    {
+      "name": "MINISTARS",
+      "symbol": "MINISTARS",
+      "chainId": 1088,
+      "address": "0x056406F1cA9DFe742a72952b13D99341F6aC3229",
+      "decimals": 18,
+      "logoURI": "https://github.com/HyperJump-DeFi/evm-token-icons/blob/main/1088/placeholder.png"
+    }
+  ],
+  "timestamp": "2022-04-19T15:00:00+00:00"
+}
